@@ -1,2 +1,3 @@
 # My
-No way my isnt taken well consider it taken
+I like existing :D
+this is my website i made for pixl i didnt want the sticker so i just made something ig 
