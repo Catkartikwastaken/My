@@ -1,6 +1,8 @@
 # Catkartik — Portfolio Website
 My personal portfolio website. Warning: contains Unrigged gambling(You willl win!)
 
+## Screenshots!!!
+<img width="1958" height="1158" alt="Web ss 1" src="https://github.com/user-attachments/assets/8ea044a0-cdd8-4d6e-8338-e92c7f5150ce" /><img width="956" height="1636" alt="web ss 2" src="https://github.com/user-attachments/assets/098bae32-3176-475f-9bba-6f119994f872" />
 ## Description
 This is a website i made to introduce myself and to be a part of the amazing community at Pixl,Hackclub! Its just HTML and CSS with no ai coding done for the website
 Here's what you'll find on it:
@@ -18,3 +20,8 @@ Find a cure to gambling and then revoke my job application :|
 I have planted fake links in the  website that turn into rick rolls,please be careful while traversing
 # Where do i see this wonderful creation?
 Just go to pixltut.netlify.app
+## I just want to run it locally what can i do???
+If you want to run it locally just download all these files as a zip and then extract it
+After extracting it just double click on the index.html file and it should open automagically in your browser!
+
+
