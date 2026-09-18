@@ -1,7 +1,7 @@
-CatKartikTheGreat — Portfolio Website
+##Catkartik — Portfolio Website
 My personal portfolio website. Warning: contains Unrigged gambling(You willl win!)
 
-Description
+##Description
 This is a website i made to introduce myself and to be a part of the amazing community at Pixl,Hackclub! Its just HTML and CSS with no ai coding done for the website
 Here's what you'll find on it:
 
