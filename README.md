@@ -16,5 +16,5 @@ The Cure — an embedded page (Gambling_curer.htm) offering a cure forgambling a
 Find a cure to gambling and then revoke my job application :| 
 # Disclaimer:
 I have planted fake links in the  website that turn into rick rolls,please be careful while traversing
-#Where do i see this wonderful creation?
+# Where do i see this wonderful creation?
 Just go to pixltut.netlify.app
